@@ -2,6 +2,7 @@ NanoGraph is an embedded vector-graph database written in modern C++23.
 
 File Directory
 
+```
 nanograph/
 ├── include/
 │   └── nanograph.hpp      # Public API interface
@@ -12,3 +13,4 @@ nanograph/
 ├── tests/
 │   └── test_queries.cpp
 ├── CMakeLists.txt
+```
